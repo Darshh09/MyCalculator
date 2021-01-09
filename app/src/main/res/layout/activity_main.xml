@@ -11,7 +11,7 @@
     <TextView
         android:id="@+id/textView1"
         android:layout_width="match_parent"
-        android:layout_height="125dp"
+        android:layout_height="wrap_content"
         android:background="@drawable/textfield"
         android:textColor="#ffffff"
         android:gravity="right"
@@ -23,7 +23,7 @@
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
-        android:layout_height="125dp"
+        android:layout_height="wrap_content"
         android:gravity="right"
         android:paddingRight="10dp"
         android:paddingTop="40dp"
